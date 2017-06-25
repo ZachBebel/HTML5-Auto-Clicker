@@ -16,11 +16,11 @@ Created for <a href="https://www.facebook.com/superdeluxevideo/videos/4593990344
 ```
 
 7. Press the *ENTER* key to execute. 5 new tabs will open.
-8. Open a **second** browser window and repeat the process again.
+8. Open a **second** browser window and repeat the process once more.
 
 **Note:**
 
 Through my own testing:
 * Chrome is the most performant browser for this task
-* The performant maximum is 12 tabs - 6 tabs in each of 2 windows
+* The performant maximum per browser is 12 tabs - 6 tabs in each of 2 windows
 * **12 tabs = ~120 clicks per second, or _1,000,000 clicks every ~139 minutes_**
