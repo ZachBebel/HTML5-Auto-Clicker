@@ -29,4 +29,4 @@ Through my own testing:
 * **12 tabs = ~120 clicks per second, or _1,000,000 clicks every ~139 minutes_**.
 
 
-*If just 1,000 people ran this script as instructed, this campaign would be complete in under 3 hours. Please share with your friends to help support this dying campaign!*
+*If just 1,000 people ran this script as instructed, this campaign would be complete in under 3 hours. Please share to help support this dying campaign!*
