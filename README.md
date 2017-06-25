@@ -17,7 +17,7 @@ This script was designed to work around the server request restriction per page 
 !function e(n){function t(e,n){u.initEvent(n,!0,!1),e.dispatchEvent(u)}function o(e){t(e,"mousedown"),t(e,"mouseup")}function s(e){e.parentElement.removeChild(e)}var i,c=document,r=function(e){return c.querySelector(e)},a=r("button"),u=c.createEvent("MouseEvents"),d=window,l=6,p=c.createElement("script"),m="onmessage=function(){setInterval(function(){postMessage('')},100)};",w=new Worker(URL.createObjectURL(new Blob([m])));t(r(".style__mute___7U3sD"),"click"),s(r("canvas")),s(r(".style__header___55ELS")),w.onmessage=function(){o(a)},w.postMessage(""),n++,n>l||(i=d.open(d.location),i.window.addEventListener("load",function(){p.innerHTML="("+e+"("+n+"));",i.document.body.appendChild(p)}))}(1);
 ```
 
-7. Press the *ENTER* key to execute. 5 new tabs will open.
+7. Press the *ENTER* key to execute. 5 new tabs will open. *You may need to create a pop-up exception for superdeluxe.com in order for the script to open the tabs.*
 8. Open a **second** browser window and repeat the process once more.
 
 **Note:**
