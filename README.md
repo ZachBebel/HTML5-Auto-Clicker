@@ -3,7 +3,7 @@ Browser inspector console script designed to smash a button fast, consistently, 
 
 Created for <a href="https://www.facebook.com/superdeluxevideo/videos/459399034404652/" target="_blank">Super Deluxe's Vic Berger's Airhorns For America Campaign</a>.
 
-This script was designed to work around the server request restriction per page (100ms frequency) by simply running the script in multiple pages simulataneously. <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers" target="_blank">Web Workers</a> were used to enable consistency of click intervals through background threading.
+This script was designed to work around the server request restriction per page (100ms frequency) by simply running the script in multiple pages simulataneously. <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers" target="_blank">Web Workers</a> were used to enable the consistency of click intervals through background threading.
 
 **To use:**
 1. Visit <a href="http://www.superdeluxe.com/vic" target="_blank">http://www.superdeluxe.com/vic</a> (Chrome works best).
