@@ -45,6 +45,7 @@
     removeElement($(".style__header___55ELS"));
 
     // Instantiate the auto-clicker via Webworker
+    // https://stackoverflow.com/questions/10343913/how-to-create-a-web-worker-from-a-string
     worker.onmessage = function () {
         naturalClick(targetNode);
     };
